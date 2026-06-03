@@ -18,10 +18,10 @@ Yapmış olduğumuz otomasyon sisteminin hem müşteri hem de personel paneli ak
 
 <h2>Uygulama Ekran Görüntüleri</h2>
 <li><b>1. Müşteri Paneli</b></li><br>
-<img width="1600" height="805" alt="musteri" src="https://github.com/user-attachments/assets/cb6824db-3646-4703-b1e9-4833638399bd" />
+<img width="1600" height="755" alt="musteri" src="https://github.com/user-attachments/assets/58da1178-7e7b-4272-a52b-5434cf5dde90" />
 <br><br>
 <li><b>2. Personel Yönetim Paneli</b></li><br>
-<img width="1600" height="809" alt="personel" src="https://github.com/user-attachments/assets/5aaaa9d6-71c6-4c1e-a32a-6d93b774687c" />
+<img width="1600" height="759" alt="personel" src="https://github.com/user-attachments/assets/ba44932b-abb6-4a0e-9388-bfc7932c42f9" />
 <br><br>
 
 <h2>Kullanılan Diller ve Teknolojiler</h2>
