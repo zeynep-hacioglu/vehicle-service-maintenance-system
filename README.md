@@ -8,6 +8,7 @@ Projemiz, çakışmaları önlemek adına sayfa ve modül bazlı olarak iki grub
 <br><br>
 <li>1. Geliştirici->Zeynep Hacıoğlu: Müşteri Modülleri (Kullanıcı Kayıt-Giriş-Çıkış İşlemleri, Araç Ekleme-Randevu Oluşturma Talepleri ve Müşteri Panel sayfalarını oluşturmuştur.)</li> <br>
 <li>2. Geliştirici->Ayşe Şevval Çokaslan: Personel Modülleri (Araç Arama İşlemleri, Randevu Onay/Ret İşlemleri, Bakım Formu Girişi, Fatura Raporlama ve Personel Panel sayfalarını oluşturmuştur.)</li>
+<sub>> Proje 2. geliştiricinin hosting bilgileri ile yapılmıştır.</sub>
 <br>
 
 <h2>Proje Tanıtım Videosu</h2>
@@ -22,7 +23,10 @@ Yapmış olduğumuz otomasyon sisteminin hem müşteri hem de personel paneli ak
 <br><br>
 <li><b>2. Personel Yönetim Paneli</b></li><br>
 <img width="1600" height="759" alt="personel" src="https://github.com/user-attachments/assets/ba44932b-abb6-4a0e-9388-bfc7932c42f9" />
-<br><br>
+
+<sub>> Personel paneline giriş için mail adresi ve şifre veritabanı.sql dosyasında bulunmaktadır.</sub>
+<br>
+
 
 <h2>Kullanılan Diller ve Teknolojiler</h2>
 Bu projede, hem frontend hem de backend bölümleri sıfırdan oluşturularak yapılmıştır.
