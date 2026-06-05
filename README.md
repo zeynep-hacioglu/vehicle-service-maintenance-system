@@ -13,7 +13,7 @@ Projemiz, çakışmaları önlemek adına sayfa ve modül bazlı olarak iki grub
 <h2>Proje Tanıtım Videosu</h2>
 Yapmış olduğumuz otomasyon sisteminin hem müşteri hem de personel paneli akışlarını, veritabanı ilişkilerini ve canlı sunucu testlerini içeren proje tanıtım videosuna aşağıdaki bağlantıdan erişebilirsiniz:
 <br><br>
-<li></li>
+<li>https://youtu.be/4eKkbLJiL0E</li>
 <br>
 
 <h2>Uygulama Ekran Görüntüleri</h2>
